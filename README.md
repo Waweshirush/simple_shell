@@ -1,5 +1,5 @@
 # simple_shell
-simple_shell is a collaboratory project where we will be creating a simple UNIX command interpreter.
+simple_shell is a collaboratory project where we will be creating a simple UNIX command interpreter./n
 Task zero involves us writing a beautiful code that passes the Betty checks
 In task one, we are writing a UNIX command line interpreter.
 For task two, we handle command lines with arguments
